@@ -2,7 +2,7 @@
 <h1 align="center"> - Hola, soy Iván Sánchez 🦖 - </h1>
 </div>
 
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://3decstore.s3.us-east-2.amazonaws.com/IvanSanchez.png">
 
 ## - Más sobre mi -
 
